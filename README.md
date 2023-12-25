@@ -6,9 +6,9 @@ Introduction:
 
 ** Functions Class:
     The `Functions` class contains multiple functions to facilitate the user journey from entering input to validating the data and saving it into the database:
+  
     1. `isValidDeal`:
        - Before accepting user input, this function ensures that no required field is empty.
-
     2. `isUniqueIdUnique`:
        - Takes an ID as a parameter and checks its uniqueness, only accepting unique IDs.
 
