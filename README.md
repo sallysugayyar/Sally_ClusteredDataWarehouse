@@ -24,6 +24,7 @@ Introduction:
 
 ** Main Class:
     The `Main` class serves as the entry point for the program and performs the following steps:
+    
     1. Lets the user decide how many deals they would like to make.
     2. Creates an array with a size equal to the user's choice.
     3. After all validations have been passed, the function for inserting the data into the database is called.
