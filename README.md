@@ -21,7 +21,6 @@ validating the date and saving it into the database:
      * checks if the id entered is unique or not. 
      * Check  if the user choses from the available currencies.
      * After all the validations has passed, the input will be saved into the database.
-
      4- saveDealToDatabase: 
      the code I have written is connected to a database that I have created using phpmyadmin -sql. 
      The solution I have implemented in this code saves the input from the user into the database. 
